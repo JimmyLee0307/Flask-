@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#咋就上传不上去呢？？？
 
 from flask import Flask
 from flask import redirect
